@@ -1,0 +1,43 @@
+  <div class="row no-gutters border p-2">
+    <div class="col">
+      <div class="d-flex justify-content-between">
+        <h3>Entry List</h3>
+        <div class="d-flex justify-content-end mb-4">
+          <button type="button" [routerLink]="['/masterdetails/Create']" class="btn btn-primary">Add Entry</button>
+        </div>
+      </div>
+
+      <div *ngFor="let item of entryList" class="card mb-4">
+        <div class="card-header row no-gutters jumbotron p-2 mb-1">
+
+          <div class="col-md-10">
+            <span style="margin-right: 10px;">
+              <img src="http://localhost:5117/Images/{{item.picture}}" width="48">
+            </span>
+            <b>Plant Name :</b> {{item.plantName}}
+          </div>
+          <div class="col-md-2 my-auto d-flex justify-content-end">
+            <button [routerLink]="['/masterdetails/Edit/', item.plantId]" class="btn btn-warning btn-sm me-2">Edit</button>
+            <button (click)="OnDelete(item)" class="btn btn-danger btn-sm">Delete</button>
+          </div>
+
+        </div>
+        <div class="card-body">
+          <table class="table table-bordered table-striped table-sm">
+            <thead>
+              <tr>
+                <th>Pot Id</th>
+                <th>Pot Name</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let potItem of item.potsItems">
+                <td>{{potItem.potId}}</td>
+                <td><{{getSpotName(potItem.potId)}}></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>

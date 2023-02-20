@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\0426422e-d970-406c-a206-de9ad81e4f0c.jpg",
+      "PackagePath": "staticwebassets\\Images\\0426422e-d970-406c-a206-de9ad81e4f0c.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\12644902-dce3-47a1-a502-37163cbb60f0.jpg",
+      "PackagePath": "staticwebassets\\Images\\12644902-dce3-47a1-a502-37163cbb60f0.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\164afabb-cec5-4409-9160-2ff32de92bfc.jpg",
+      "PackagePath": "staticwebassets\\Images\\164afabb-cec5-4409-9160-2ff32de92bfc.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\59f9c7d3-1d80-4098-bad5-4517842eb43d.jpg",
+      "PackagePath": "staticwebassets\\Images\\59f9c7d3-1d80-4098-bad5-4517842eb43d.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\5e323520-1a6b-48f5-bfd8-1e5e03f188fc.jpg",
+      "PackagePath": "staticwebassets\\Images\\5e323520-1a6b-48f5-bfd8-1e5e03f188fc.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\7177e221-dd62-4fb5-9bbb-9f9df179af43.jpg",
+      "PackagePath": "staticwebassets\\Images\\7177e221-dd62-4fb5-9bbb-9f9df179af43.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\744d0c79-813d-4a1a-b603-425c1c0b7885.html",
+      "PackagePath": "staticwebassets\\Images\\744d0c79-813d-4a1a-b603-425c1c0b7885.html"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\810b92a5-2b97-4c1e-a1fb-b3f23869e7f6.jpg",
+      "PackagePath": "staticwebassets\\Images\\810b92a5-2b97-4c1e-a1fb-b3f23869e7f6.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\a348f284-2fe0-4568-9a1e-0b1dbf947268.jpg",
+      "PackagePath": "staticwebassets\\Images\\a348f284-2fe0-4568-9a1e-0b1dbf947268.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\b7461050-b247-48ad-ad35-5bec06ccd591.jpg",
+      "PackagePath": "staticwebassets\\Images\\b7461050-b247-48ad-ad35-5bec06ccd591.jpg"
+    },
+    {
+      "Id": "E:\\AngularProject_final\\AngularEvidence - Plant\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Angular_MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Angular_MasterDetails.props",
+      "PackagePath": "build\\Angular_MasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Angular_MasterDetails.props",
+      "PackagePath": "buildMultiTargeting\\Angular_MasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Angular_MasterDetails.props",
+      "PackagePath": "buildTransitive\\Angular_MasterDetails.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
